@@ -1,0 +1,20 @@
+{
+  "name": "app-desktop-hkpati",
+  "version": "0.0.1",
+  "description": "application for management",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "keywords": [
+    "electron",
+    "reactjs",
+    "typescript"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^28.1.1"
+  }
+}
